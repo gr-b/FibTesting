@@ -1,0 +1,15 @@
+Brute Force- n: 0 Time: 4.19616699219e-07
+Brute Force- n: 1 Time: 3.91006469727e-07
+Brute Force- n: 2 Time: 5.29289245605e-07
+Brute Force- n: 3 Time: 5.43594360352e-07
+Brute Force- n: 4 Time: 7.0333480835e-07
+Brute Force- n: 5 Time: 7.65323638916e-07
+Brute Force- n: 6 Time: 8.225440979e-07
+Brute Force- n: 7 Time: 7.22408294678e-07
+Brute Force- n: 8 Time: 8.74996185303e-07
+Brute Force- n: 9 Time: 8.32080841064e-07
+Brute Force- n: 10 Time: 1.47581100464e-06
+Brute Force- n: 11 Time: 8.84532928467e-07
+Brute Force- n: 12 Time: 9.34600830078e-07
+Brute Force- n: 13 Time: 1.32322311401e-06
+Brute Force- n: 14 Time: 2.75611877441e-06

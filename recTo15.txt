@@ -1,0 +1,15 @@
+Divide and Conquer- n: 0 Time: 2.86102294922e-06
+Divide and Conquer- n: 1 Time: 3.09944152832e-06
+Divide and Conquer- n: 2 Time: 5.00679016113e-06
+Divide and Conquer- n: 3 Time: 1.4066696167e-05
+Divide and Conquer- n: 4 Time: 1.50203704834e-05
+Divide and Conquer- n: 5 Time: 1.00135803223e-05
+Divide and Conquer- n: 6 Time: 2.09808349609e-05
+Divide and Conquer- n: 7 Time: 2.90870666504e-05
+Divide and Conquer- n: 8 Time: 3.88622283936e-05
+Divide and Conquer- n: 9 Time: 5.60283660889e-05
+Divide and Conquer- n: 10 Time: 8.32080841064e-05
+Divide and Conquer- n: 11 Time: 0.000125169754028
+Divide and Conquer- n: 12 Time: 0.000192165374756
+Divide and Conquer- n: 13 Time: 0.000136852264404
+Divide and Conquer- n: 14 Time: 0.000156879425049
